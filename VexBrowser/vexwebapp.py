@@ -64,7 +64,7 @@ HTML_TEMPLATE = """
 
         // 3. Draw Isosceles Triangle (Direction Indicator)
         ctx.beginPath();
-        ctx.fillStyle = 'red';
+        ctx.fillStyle = 'pink';
 
         ctx.lineWidth = 2;         // Thickness of the outline
 
