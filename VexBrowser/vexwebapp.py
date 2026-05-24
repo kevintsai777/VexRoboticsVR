@@ -58,7 +58,7 @@ HTML_TEMPLATE = """
         ctx.fillRect(-20, -15, 40, 30);
 
         // 3. Small Connector Rectangle (Attached to Triangle)
-        ctx.fillStyle = 'yellow';
+        ctx.fillStyle = 'purple';
         // Positioned from x=5 to x=15 to meet the triangle base
         ctx.fillRect(-12, -8, 29, 16);
 
